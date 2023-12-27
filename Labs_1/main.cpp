@@ -123,4 +123,6 @@ void main()
 
 	int a = 10;
 	printf("\n%d", a * a);
-}
+
+	int arr[] = { 12, 10, 8, 12, 13, 14 };
+} 
