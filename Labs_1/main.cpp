@@ -120,4 +120,7 @@ void main()
 	printf("Library: %c\n", *p1);
 	char* p = StrBrk(s1, s2);
 	printf("My: %c", *p);
+
+	int a = 10;
+	printf("\n%d", a * a);
 }
