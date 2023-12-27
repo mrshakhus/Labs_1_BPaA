@@ -125,7 +125,4 @@ void main()
 	printf("\n%d", a * a);
 
 	int arr[] = { 12, 10, 8, 12, 13, 14 };
-
-	printf("\nHello World!\n");
-
 } 
